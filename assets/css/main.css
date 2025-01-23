@@ -875,6 +875,10 @@ input:checked + label .description {
         gap: 20px;
     }
 
+    .faq__content .content__faq .faq__item {
+        scale: 0.9;
+    }
+    
     .dashboard .dashboard__content2 {
         width: 500px;
     }
